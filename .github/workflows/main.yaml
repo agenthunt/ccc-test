@@ -1,7 +1,5 @@
 name: CI
-
 on: [pull_request]
-
 jobs:
   check-for-cc:
     runs-on: ubuntu-latest
