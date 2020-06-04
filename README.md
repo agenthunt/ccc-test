@@ -1,3 +1,5 @@
 # ccc-test
 
-testing https://github.com/marketplace/actions/conventional-commit-checker
+This repo is a test repo that uses conventional commit checker action available at
+
+<https://github.com/marketplace/actions/conventional-commit-checker>
