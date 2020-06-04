@@ -11,4 +11,4 @@ jobs:
 
       - name: check-for-cc
         id: check-for-cc
-        uses: actions/conventional-commit-checker@v1.0.0
+        uses: agenthunt/conventional-commit-checker-action@v1.0.0
